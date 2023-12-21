@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    /*go away color*/
+    background-color: #76881D ;
+}
+
+.block {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    color: #fff;
+    position: absolute;
+    cursor: grab; 
+    user-select: none;
+}
+
